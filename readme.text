@@ -1,2 +1,6 @@
 readme
-create a new branch is fast & simple
+<<<<<<< HEAD
+create a new branch is fast and simple
+=======
+create a new branch is fast and simple
+>>>>>>> feature1
